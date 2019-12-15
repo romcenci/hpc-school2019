@@ -75,3 +75,23 @@ The programme specifically addresses the needs of scientists using, writing, or 
 
 **Lattice-Boltzmann Code Best Practices** [[Slides]](day6/IG-LBM.pdf)
 
+
+#### Day 7
+
+**Overview of Parallel Math Libraries** [[Slides]](day7/OverviewOfParallelMathLibraries.pdf)
+
+**Introduction to Parallel I/O** [[Slides]](day7/IG-IO.pdf)
+
+
+#### Day 8
+
+**Collaborative Software Management: The LAMMPS Project** [[Slides]](day8/lammps-management.pdf)
+
+**Task Farming for Embarrassingly Parallel Processing** [[Slides]](day8/TaskFarming.pdf) [[Code]](day8/task_farming.tar.gz)
+
+
+#### Day 9
+
+**Overview of GPU Computing** [[Slides]](day9/ictp-GPU.pdf)
+
+**Containers in HPC** [[Slides]](day9/containers-and-hpc.pdf)
